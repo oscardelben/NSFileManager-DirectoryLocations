@@ -1,0 +1,7 @@
+As seen on: http://cocoawithlove.com/2010/05/finding-or-creating-application-support.html
+
+I added:
+
+- (NSString *)picturesDirectory;
+- (NSString *)musicDirectory;
+- (NSString *)moviesDirectory;
